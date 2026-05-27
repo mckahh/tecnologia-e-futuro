@@ -1,5 +1,5 @@
 body {
-    background-color: orange;
+    background-color: rgb(0, 3, 175);
     color: white;
     font-family: Arial, sans-serif;
     margin: 0;
@@ -25,7 +25,7 @@ nav a {
 }
 
 nav a:hover {
-    color: orange;
+    color: rgb(33, 6, 133);
 }
 
 /* Seções */
@@ -42,7 +42,7 @@ h1 {
 }
 
 h2 {
-    color: orange;
+    color: rgb(231, 217, 217);
 }
 
 /* Imagens */
